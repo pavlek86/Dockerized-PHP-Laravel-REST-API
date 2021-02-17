@@ -14,3 +14,9 @@ There are two unguarded routes:
 2. Login `http://localhost/api/auth/login` [POST] - valid email and password are required in order to obtain an JWT token
 
 Other routes are guarded with Auth middleware (Valid JWT token must be passed)
+
+### Technologies
+
+- PHP using Laravel framework
+- Database: MariaDB
+- Authentication: JWT
