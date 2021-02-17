@@ -1,4 +1,4 @@
-## Walter
+## Dockerized PHP/Laravel REST API
 
 ### Installation
 
